@@ -14,9 +14,9 @@ import Budgets from "./pages/budgets.jsx";
 import SavingsGoals from "./pages/SavingsGoals.jsx";
 import Analytics from "./pages/Analytics.jsx";
 import Assistant from "./pages/Assistant.jsx";
-import Insights from "./pages/Insights.jsx";
+import Insights from "./pages/insights.jsx";
 import SettingsPage from "./pages/Settings.jsx";
-import HelpPage from "./pages/Help.jsx";
+import HelpPage from "./pages/help.jsx";
 
 const navigation = [
   { title: "OVERVIEW", items: [
