@@ -1,0 +1,98 @@
+
+description,type,category
+swiggy food order,expense,Food
+zomato restaurant payment,expense,Food
+grocery store purchase,expense,Food
+pizza restaurant,expense,Food
+blinkit grocery delivery,expense,Food
+supermarket purchase,expense,Food
+cafe coffee payment,expense,Food
+restaurant dinner bill,expense,Food
+uber ride payment,expense,Transport
+ola cab fare,expense,Transport
+rapido bike ride,expense,Transport
+petrol pump payment,expense,Transport
+metro card recharge,expense,Transport
+bus ticket payment,expense,Transport
+train ticket booking,expense,Transport
+parking fee,expense,Transport
+amazon shopping order,expense,Shopping
+flipkart purchase,expense,Shopping
+myntra clothing order,expense,Shopping
+ajio fashion purchase,expense,Shopping
+shopping mall payment,expense,Shopping
+online electronics purchase,expense,Shopping
+clothing store payment,expense,Shopping
+retail store purchase,expense,Shopping
+electricity bill payment,expense,Utilities
+water bill payment,expense,Utilities
+internet broadband bill,expense,Utilities
+mobile recharge payment,expense,Utilities
+gas bill payment,expense,Utilities
+telephone bill payment,expense,Utilities
+internet subscription payment,expense,Utilities
+utility service payment,expense,Utilities
+netflix subscription,expense,Entertainment
+spotify premium payment,expense,Entertainment
+prime video subscription,expense,Entertainment
+movie theatre tickets,expense,Entertainment
+cinema ticket booking,expense,Entertainment
+concert ticket payment,expense,Entertainment
+gaming subscription,expense,Entertainment
+music streaming subscription,expense,Entertainment
+hospital bill payment,expense,Healthcare
+pharmacy medicine purchase,expense,Healthcare
+doctor consultation fee,expense,Healthcare
+clinic appointment payment,expense,Healthcare
+medical test payment,expense,Healthcare
+healthcare insurance payment,expense,Healthcare
+diagnostic laboratory bill,expense,Healthcare
+medical store purchase,expense,Healthcare
+college tuition fee,expense,Education
+university fee payment,expense,Education
+online course purchase,expense,Education
+udemy course payment,expense,Education
+coursera subscription,expense,Education
+exam registration fee,expense,Education
+textbook purchase,expense,Education
+education institute fee,expense,Education
+monthly house rent,expense,Rent
+apartment rent payment,expense,Rent
+landlord rent transfer,expense,Rent
+residential rent payment,expense,Rent
+flat monthly rent,expense,Rent
+house rental payment,expense,Rent
+accommodation rent,expense,Rent
+property rent transfer,expense,Rent
+monthly salary credit,income,Salary
+company payroll credit,income,Salary
+employee salary payment,income,Salary
+salary deposit,income,Salary
+monthly wages credit,income,Salary
+employer salary transfer,income,Salary
+payroll deposit,income,Salary
+salary received,income,Salary
+freelance project payment,income,Freelance
+client payment received,income,Freelance
+freelance consulting fee,income,Freelance
+web development project payment,income,Freelance
+design project earnings,income,Freelance
+contract work payment,income,Freelance
+consulting income,income,Freelance
+freelance invoice payment,income,Freelance
+dividend payment received,income,Investment
+bank interest credit,income,Investment
+fixed deposit interest,income,Investment
+mutual fund dividend,income,Investment
+investment return credit,income,Investment
+stock dividend received,income,Investment
+savings interest credit,income,Investment
+investment income,income,Investment
+business sales revenue,income,Business
+business payment received,income,Business
+customer payment credit,income,Business
+sales income received,income,Business
+business invoice payment,income,Business
+product sales payment,income,Business
+business revenue deposit,income,Business
+merchant sales credit,income,Business
